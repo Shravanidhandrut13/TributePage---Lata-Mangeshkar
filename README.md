@@ -1,7 +1,9 @@
 # Tribute Page | Honoring the Legacy of Lata Mangeshkar
 
+## Part of the internship at TDS AVENUE CodeForge,
+
 ## Overview
-This project is a tribute page dedicated to the legendary Indian playback singer, Lata Mangeshkar, who was widely known as the "Nightingale of India." The page highlights her incredible journey, achievements, and her lasting impact on the world of music.
+This tribute page is dedicated to the legendary Indian playback singer, Lata Mangeshkar, who was widely known as the "Nightingale of India." The page highlights her incredible journey, achievements, and her lasting impact on the world of music.
 
 ## Features
 Responsive Design: The tribute page is designed to be fully responsive, ensuring it looks great on any device.
