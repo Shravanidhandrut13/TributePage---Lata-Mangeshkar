@@ -14,7 +14,9 @@ Legacy and Influence
 Later Years and Passing
 Personal Life
 Footer with Resources: Provides a link to her Wikipedia page for more in-depth information.
-
+## Preview
+ https://shravanidhandrut13.github.io/TributePage---Lata-Mangeshkar/
+ 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/6dcccba9-ca9f-48c2-89b1-4ac140f63c28)
 
